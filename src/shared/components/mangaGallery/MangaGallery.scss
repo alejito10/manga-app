@@ -1,0 +1,21 @@
+@import "~bootstrap";
+
+*{
+  background-color: #282c34;
+}
+
+.c-manga-gallery__img{
+  width: 30vw;
+  display: block;
+  margin: auto;
+}
+.title{
+  text-align: center;
+  color: white;
+}
+.nombres{
+  margin-left: 30px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+  color: white;
+}
